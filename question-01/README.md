@@ -3,10 +3,19 @@
 
 This repository contains your first problem set for Data Science I: Foundations. 
 
+## Abstract
+This section is for the abstract for the paper. 
 
-## General Rules for Approaching this Question
+## General Structure for this Folder
 
-Have fun!
+This folder contains all the code, data, and outputs for the specified report. 
+This information is split into 3 main folders -- data, code, and output.
+### Data 
+This folder is split into 2 subfolders (clean vs raw data) in order to keep those data sets separate and not accidentally edit the raw data. 
+### Code
+This folder contains the ordered python files needed to reproduce results of this article. THe order indicates how you should run the code -- first process data, then to get the main results, then additional processing, and then appendix results.
+### Output
+These 2 subfolders have all of the figures for this report. They are ordered in the order in which they appear in the article, and then the appendix figures are marked separately. 
 
 
 
