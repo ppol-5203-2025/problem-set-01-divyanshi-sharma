@@ -4,7 +4,7 @@
 This repository contains your first problem set for Data Science I: Foundations. 
 
 ## Abstract
-This section is for the abstract for the paper. 
+This paper is about the correlation between reading books during the academic year and dping well in your classes. We found that there is a huge correlation between these variables!
 
 ## General Structure for this Folder
 
